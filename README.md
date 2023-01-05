@@ -22,4 +22,4 @@ date_directory_creator.bin -year 2025 -day sunday
 
 date_directory_creator.bin -year 2020-2030 -day monday-friday
 
-- Program will attempt to not overwrite existing directories, but use with caution.
+- Program will check for and not overwrite existing directories, but use with caution.
