@@ -1,4 +1,4 @@
-# Date Directory Creator
+# Cyclone's Date Directory Creator
 ### CLI program to create directories by year / month / day
 
 - version:        0.3.1
@@ -23,3 +23,6 @@ date_directory_creator.bin -year 2025 -day sunday
 date_directory_creator.bin -year 2020-2030 -day monday-friday
 
 - Program will check for and not overwrite existing directories, but use with caution.
+
+Compile from source code info:
+- https://github.com/cyclone-github/scripts/blob/main/intro_to_go.txt
